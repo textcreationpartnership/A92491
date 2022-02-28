@@ -1,0 +1,795 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for raising four months supply. At Edinburgh, the twenty seventh day of April 1689.</title>
+            <title>Laws, etc.</title>
+            <author>Scotland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92491</idno>
+            <idno type="STC">Wing S1096A</idno>
+            <idno type="STC">ESTC R183898</idno>
+            <idno type="EEBO-CITATION">45097933</idno>
+            <idno type="OCLC">ocm 45097933</idno>
+            <idno type="VID">171509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92491)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for raising four months supply. At Edinburgh, the twenty seventh day of April 1689.</title>
+                  <title>Laws, etc.</title>
+                  <author>Scotland.</author>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>printed in the year, 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: pages torn with some loss of print.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Law and legislation --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="act">
+            <pb facs="tcp:171509:1"/>
+            <head>ACT For raiſing four Months Supply.</head>
+            <opener>
+               <dateline>
+                  <hi>At</hi> Edinburgh, <date>
+                     <hi>the twenty ſeventh day of</hi> April 1689.</date>
+               </dateline>
+            </opener>
+            <p>FOraſmuch as the Eſtates of this Kingdom finding it neceſſary, as well for the ſecurity of the Proteſtant Religion, as for the common Safety and Defence of the Kingdom, againſt Forraign Invaſions, and Inteſtine Inſur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tions, that a competent number of Forces be raiſed and kept up within the ſame; They have Ordained certain Troops of Horſe to be Levied from the ſe<g ref="char:EOLhyphen"/>veral Shires, and upon the voluntary offers of ſundry Noblemen and Gentle<g ref="char:EOLhyphen"/>men, Have given Warrand for Levying ſome Regiments of Foot, and Troops of Horſe and Dragoons; and ſeing theſe Forces cannot be kept up and main<g ref="char:EOLhyphen"/>tained, without a conſiderable Charge and Expence; And the Ceſs Impoſed by all former Acts, being now extinct, and not due in time coming; Therefore the ſaids Eſtates in this Juncture, Do Ordain the ſum of Two hundreth and eighty eight Thouſand Pounds <hi>Scots,</hi> to be Raiſed and Uplifted from the Shires and Burghs of this Kingdom, at the Term of <hi>Whitſunday</hi> next, according to the proportions Impoſed upon each Shire and Burgh, by the Act of Convention o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Eſtates in the Year 1667. And for the effectual and ſpeedy In-bringing of the ſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpoſition, The Eſtates Do Nominat and Appoint, the Perſons af<g ref="char:EOLhyphen"/>ter-named, to be Commiſſioners within the reſpective Shires, for Ordering and Uplifting of the ſame, <hi>viz.</hi>
+            </p>
+            <p>For the Shire of <hi>Edinburgh.</hi>
+            </p>
+            <p>The Earl <hi>of</hi> Lauderdail, the Earl <hi>of</hi> Lothian, the Viſcount <hi>of</hi> Tarbet, the Lord Roſs, the Lord Torphichen, the Maſter <hi>of</hi> Balmerino, Sir John Baird <hi>of</hi> Newbyth, John Wauchop <hi>of</hi> Edmiſtoun, Sir John Maitland <hi>of</hi> Ravelrig, Sir George M<hi rend="sup">c</hi>ken<g ref="char:EOLhyphen"/>zie <hi>of</hi> Shank, Sir John Foulis <hi>of</hi> Ravelſtoun, Robert Dundaſs <hi>of</hi> Arniſtoun, Sir Alexander Gibſon <hi>of</hi> Pentland, Sir John Clark <hi>of</hi> Pennycook, Sir William Drummond <hi>of</hi> Halthrondain, Sir Patrick Nisbet <hi>of</hi> Dean, Sir John Young <hi>of</hi> Leny, Sir William Murray <hi>of</hi> Newtown, Hugh Wallace <hi>of</hi> Ingliſtoun, Sir John Ramſay <hi>of</hi> Whitehill, Sir Robert Baird <hi>of</hi> Sauchton-hall, Sir William Binning <hi>of</hi> Wallie-foord, Sir James Dick <hi>of</hi> Prieſtfield, Thomas Craig <hi>of</hi> Ric<g ref="char:EOLhyphen"/>cartoun, Alexander Nisbet <hi>of</hi> Craigentinny, Sir Robert Miln <hi>of</hi> Barntoun, Patrick Hamilton <hi>of</hi> Falla, John Cunninghame <hi>of</hi> Woodhall, Mr. Roderick M<hi rend="sup">c</hi>kenzie <hi>of</hi> Preſtounhall, John Foulis <hi>of</hi> Ratho, James Baird younger <hi>of</hi> Sauchtounhall, James Murray <hi>of</hi> Dewchar, Charles Murray <hi>of</hi> Hadden, Mr. James Hunter <hi>of</hi> Murrays, John Scot <hi>of</hi> Malleny, Andrew Brown <hi>of</hi> Braid, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Burnet <hi>of</hi> Carlops, the eldeſt Baillie <hi>of</hi> Muſſel Burgh for the time, and the eldeſt Baillie <hi>of</hi> Dalkeith for the time.</p>
+            <p>For the Shire of <hi>Haddingtoun.</hi>
+            </p>
+            <p>The Earl <hi>of</hi> Wintoun, The Earl <hi>of</hi> Tweddale, the Lord Belhaven, Sir John Hall <hi>of</hi> Dunglaſs, Sir Patrick Hepburn <hi>of</hi> Black-caſtle, Sir John Sinclar <hi>of</hi> Loch<g ref="char:EOLhyphen"/>end, Archibald Murray <hi>of</hi> Spot, Robert Hamilton <hi>of</hi> Preſſmenan, Mr. Ro<g ref="char:EOLhyphen"/>bert Lauder <hi>of</hi> Beilmouth, James Hamilton <hi>of</hi> Heatherwick, William Hep<g ref="char:EOLhyphen"/>burn <hi>of</hi> Beanſtoun, Patrick Hepburn <hi>of</hi> Smeatoun, Sir William Baird <hi>of</hi> New<g ref="char:EOLhyphen"/>byth, Sir George Suittie <hi>of</hi> Balgone, William Nisbet <hi>of</hi> Dirletoun, George
+<pb facs="tcp:171509:2"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Hay <hi>of</hi> Lin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Sir John Law<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountain<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Sir Robert Sinclar <hi>of</hi> Ste<g ref="char:EOLhyphen"/>vinſon, the Laird <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the Land <hi>of</hi> Lamingtoun, James Oſwald <hi>of</hi> Fingletoun, James Durhame <hi>of</hi> Luffneſs.</p>
+            <p>For the Shire <hi>of</hi> Berwick.</p>
+            <p>The Marqueſs <hi>of</hi> Douglaſs, the Lord Roſs, the Lord Harcarſs, the Lord Merſing<g ref="char:EOLhyphen"/>toun, Sir John Sinclar <hi>of</hi> Longformacus, Sir John Hume <hi>of</hi> Blackader, Sir James Don <hi>of</hi> N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wtoun, Sir James Cockburn <hi>of</hi> that ilk, Sir Robert Stuart <hi>of</hi> Al<g ref="char:EOLhyphen"/>lanbank, Sir John Hall <hi>of</hi> Dunglaſs, Sir William Scot <hi>of</hi> Harden, Sir James Rocheid <hi>of</hi> Innerleith, Sir Patrick Hume <hi>of</hi> Lumsdean, George Hume <hi>of</hi> Wed<g ref="char:EOLhyphen"/>derburn, John Swinton of that Ilk. John Rentoun <hi>of</hi> Lambertoun, John Ker <hi>of</hi> Moriſtoun, John Ker <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avers, George Ramſay <hi>of</hi> Edingtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Edgar <hi>of</hi> Wedderlie, Mr. Alex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Brown <hi>of</hi> Thornidykes, John Hume <hi>of</hi> Ninewals, George Hume <hi>of</hi> Kimmerghame, Mr. John Belſhes <hi>of</hi> Tofts, Robert Brown <hi>of</hi> Black<g ref="char:EOLhyphen"/>burn, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hume <hi>of</hi> Hundwood, Patrick Wardlaw <hi>of</hi> Berrie-haugh, Wal<g ref="char:EOLhyphen"/>ter Pringle <hi>of</hi> Greenknow, George Hume <hi>of</hi> Baſſindain, William Cockburn <hi>of</hi> Caldrie, George Hume <hi>of</hi> St. Leonards, Maſter James Daes <hi>of</hi> Colding knows, Maſter David Hume <hi>of</hi> Croſstig, Maſter James Dowglas <hi>of</hi> Earnſlaw, Alex<g ref="char:EOLhyphen"/>ander Hume <hi>of</hi> Abbay, John Watſon <hi>of</hi> Jardenfield, Alexander Trotter <hi>of</hi> Kettleſheil, Thomas Rocheid <hi>of</hi> Whitſomhill, Sir Archibald Cockburn <hi>of</hi> Langtoun, and Sir Patrick Hume <hi>of</hi> Polwort.</p>
+            <p>For the Shire of Roxburgh.</p>
+            <p>The Marqueſs <hi>of</hi> Dowglaſs, the Earl <hi>of</hi> Lothian, the Lord Newbottle, the Lord Jedburgh, the Lord Rutherfoord, Sir William Ker <hi>of</hi> Greenhead, Sir Willi<g ref="char:EOLhyphen"/>am Scot <hi>of</hi> Harden, Sir William Elliot <hi>of</hi> Stobs, Sir Francis Scot, Sir John Scot <hi>of</hi> Ancrum, Sir Robert Pringle <hi>of</hi> Stitchel, the Lairds <hi>of</hi> Cliftoun, Chatto, and Frogden, Sir William Bennet <hi>of</hi> Grubit, Sir Patrick Scot, Sir John Rid<g ref="char:EOLhyphen"/>del <hi>of</hi> that Ilk, Sir James Don of Newtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pringle younger of St<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tchel, James Don of Smelholm, the Laird of Rutherfoord, Patrick Don of Ottenburn, Sir William Dowglaſs of Cavers, Robert Scot of Horſliehill, the Dutches of Buccleucghs Chamberlain for the time, the Earl of Roxburghs Chamberlain for the time, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ker of Littledean, William Ainſlie of Black<g ref="char:EOLhyphen"/>hill, William Scot of Rae-burn, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Rutherford of Tev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otvail, Robert Elliot of Middlemmiln, the Provoſt of Jedbu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh for the time, Robert Faa Baillie of Melroſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hallyburton of Muirhouſlaw younger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Rutherford younger of Faringtoun, the Laird of Edgarſtoun, and the Baillie of the Regality of Jedburgh Forreſt.</p>
+            <p>For the Shire of Selkirk.</p>
+            <p>The Earl of Tarras, the Laird of Drummelzier, Sir Francis Scot, George Pringle elder of Torwoodlie, the Laird of Torwoodlie younger, Hugh Scot of Gallow<g ref="char:EOLhyphen"/>ſheils, the Laird of Muſlie younger, the Lairds of Gilme<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cleugh and Middleſtead elder and younger, Sir William Scot elder and younger, the Laird of Sintoun, the Laird of Breadmeadows elder, the Laird of Sundhope, the Laird of Phi<g ref="char:EOLhyphen"/>liphaugh, Baillie Mitchelhil, the Laird of Wall Baillie or Chamberlain to the Dutches of Buccleugh.</p>
+            <p>For the Shire of Peebles.</p>
+            <p>The Duke of Queensberry, the Earl of Mortoun, Lord William Dowglaſs, Lieu<g ref="char:EOLhyphen"/>tennant-General Dowglaſs, the Laird of Drummelzier, the Laird of Blackbarrony elder, the Lairds of Stenhops elder and younger, the Laird of Dawick, the Laird of Poſſo, the Laird of Hayſtoun, the Laird of Hartrie, the Laird of Whitſlead, the
+<pb n="3" facs="tcp:171509:2"/>Laird of Polmood, the Laird of Hackſhay yo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Laird of Kirkoord, the Laird of Scotſtoun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Spittlehaugh, the Laird of Cringlty<g ref="char:punc">▪</g> the La<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Slipperfield, Doctor Penniecook of Roman<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Manerhall, John Balfour of Kailzea, the Laird of Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeburgh younger, the Laird of Little-Ormiſtoun, the Laird of Blyth, the Laird of Cardronna, the Provoſt of Peebles for the time.</p>
+            <p>For the Shire of Lanerk.</p>
+            <p>The Duke of Hamilton, the Marqueſs of Dowglaſs, John Lord Carmichael, Alexander Lord Blantire, Archibalo Earl of Forfar, Sir Daniel Carm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chael of Mauldſlie, John Weir of Newtoun, William Baillie of Hardingtoun, Alexander Menzies elder and younger of Culteraws, Alexander Bertoun of Nisbet, James Lockhart <hi>of</hi> Anniſtoun, James Somervel <hi>of</hi> Gladſtains, John Baillie younger of Walſtoun, William Denholm of Weſtſheil, Sir William Lockhart of Carſtairs, Mr Andrew Kennedy of Clowburn, Sir John Carmichael of Bonyntoun, William Baillie of Littlegil, James Lockhart of Cleghorn, George Baillie of Jer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſwood, the Laird of Lie, John Hamilton younger of Halcraig, Walter Lockhart of Kirk<g ref="char:EOLhyphen"/>toun, Samuel Doug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſs of Haſſilſide<g ref="char:punc">▪</g> Robert Kenne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>htefardel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ballandine of Craigmuir, William Lawrie of Blackwood, Andrew Hay of Craig<g ref="char:EOLhyphen"/>nethen, William Hamilton of Raploch, James Young of Netherfield, Maſter Hugh Dalrymple of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> John Hamilton of Barnclu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, the Bail<g ref="char:EOLhyphen"/>lies of Hamiltoun for the time, Maſter John Kincaid of Corſbasket, Sir William Maxwel <hi>of</hi> Calderwood, The Laird <hi>of</hi> Torrence, Sir William Fle<g ref="char:EOLhyphen"/>ming <hi>of</hi> Ferme, James Hamilton <hi>of</hi> Aikenhead, Gabriel Hamilton <hi>of</hi> Weſt<g ref="char:EOLhyphen"/>burn, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Corbet <hi>of</hi> Towcorſe, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Robertoun <hi>of</hi> Bedlay, John Wal<g ref="char:EOLhyphen"/>kinſhaw <hi>of</hi> Borrowfield, Mr. Henry Baillie <hi>of</hi> Carderoch, the Baillie <hi>of</hi> the Regality <hi>of</hi> Glaſgow for the time, the Laird <hi>of</hi> Braidiſholm, the Laird <hi>of</hi> Au<g ref="char:EOLhyphen"/>chinvoul, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hamilton <hi>of</hi> Airdrie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Mui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>head <hi>of</hi> Stevin<g ref="char:EOLhyphen"/>ſon, Mr. Archibald Nisbit <hi>of</hi> Carſin, the Laird <hi>of</hi> Cle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lingtoun, the Laird <hi>of</hi> Dalzell, Sir John Harper <hi>of</hi> Cambuſnethem William Hamilton <hi>of</hi> Wiſhaw, Thomas Stuart <hi>of</hi> Cul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs, William Stuart <hi>of</hi> Allantoun, James Stuart <hi>of</hi> Hart<g ref="char:EOLhyphen"/>wood, and the Laird of Lamingtoun.</p>
+            <p>For the Sheriffdom <hi>of</hi> Nithiſdail and Dumfries.</p>
+            <p>The Duke <hi>of</hi> Queensberry, the Earl <hi>of</hi> Annandail, the Lord Drumlanrig, Sir James Dowglaſs <hi>of</hi> Kelhead, Sir Thomas Kilpatrick <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loſsburn, Sir Robert Lawrie <hi>of</hi> Maxweltoun, Sir Patrick Maxwel <hi>of</hi> Sprinkel, the Laird <hi>of</hi> Hol<g ref="char:EOLhyphen"/>mains, the Laird <hi>of</hi> Craigdarroch, the Laird <hi>of</hi> Dornick, the Laird of Capi<g ref="char:EOLhyphen"/>noch, the Laird <hi>of</hi> Gernſalloch elder, Sir James Johnſtoun <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſteraw, the Laird <hi>of</hi> Lamerſcails, James Johnſton <hi>of</hi> Corhead, John Johnſton younger <hi>of</hi> Weſteraw, the Laird <hi>of</hi> Craigs, the Laird <hi>of</hi> Stu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>toun, Andrew Johnſton younger <hi>of</hi> Lockerbie, the Laird <hi>of</hi> Brekinſide, Archibald Murray younger <hi>of</hi> Dumcrief, the Laird of Dormonth, the Laird of Brydkirk, the Laird of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raw<g ref="char:EOLhyphen"/>fordtoun, the Laird of Enoch, the Laird of Eccles, William Johnſtoun of Grantoun, and Mr. Hugh Maxwel of Dalſwintoun.</p>
+            <p>For the Shetiffdom of Wigtoun.</p>
+            <p>The Lord Gairlies, Robert M<hi rend="sup">c</hi>dowgal younger of Logan, James Dalrym<g ref="char:EOLhyphen"/>ple of Dunragit, Patrick Herron of Little-park, James Val<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ange of Poſ<g ref="char:EOLhyphen"/>ſils, John M<hi rend="sup">c</hi>culloch of Grainge, Sir Andrew Agnew Sheriff of Wigtoun, Pa<g ref="char:EOLhyphen"/>trick Agnew of Sheuchan, John Stuart of Fiſgil, Sir John Dalrymple of Stair, the Laird of Logan elder, the Laird of Donſkey, the Laird of Ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leſteuart, the Laird of Craichlaw younger, the Laird of Mochrum, the Laird of Garthland, ſir William Maxwel of Monreith, ſir Charles Hay of Park, James Agnew of Lochnaw, John Vans of Barnbarroch.</p>
+            <pb n="4" facs="tcp:171509:3"/>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Sheriffdom of Air. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ames Montgomry of Skelmorly, William Blair of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thereof, David Cunninghame younger of Robert<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and the Laird of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lder and younger, the Laird of Pearſtoun younger, the Laird of Rowallan, the Laird of Crawfordland, Mr. Alexander Crawford of Ferguſhill, the Laird of Kilbirnie, the Laird of Corſhil, the Laird of Kel<g ref="char:EOLhyphen"/>burn, the Laird of Grainge; Captain VVilliam Hamilton of Ladyland; Hugh Stevinſon of Mountgreenand; Allan Lord Cathcart; Allan Mr. of Cathcart; Major Hugh Buntine; Hugh Montgomrie of Colts-field; the Magiſtrats of Air and Irving for the time being; the Earl of Eglintoun; the Earl of Dundon<g ref="char:EOLhyphen"/>nald; ſir William Cunninghame <hi>of</hi> Capringtoun; ſir VVilliam Cunninghame of Cunninghame-head; Mr. Francis Montgomry of Giftan; Mr. Thomas Coch<g ref="char:EOLhyphen"/>ran of Polkellie; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Crawford of Carſe; Mr. David Cunninghame of Mil<g ref="char:EOLhyphen"/>craig; Ronald Chalmers of Polwharne; Richard Cunninghame of Bedlane; the Laird of Dreghorn elder; Charles Lord Creightoun; David Blair of Adamtoun; John Blair younger of Adamtoun; David Boſwell of Auchinleck; Mr. VVil<g ref="char:EOLhyphen"/>liam Fullertoun of that Ilk; the Laird of Logan of that Ilk; Robert Dickſon of Sornbeg; Mungo Campbel younger of Nether-place; ſir George Campbel of Ceſnock, ſir John Dalrymple younger of Stair; Mr. James Dalrymple of Kil<g ref="char:EOLhyphen"/>loch; VVilliam Cochran younger of Ochiltrie; John Chalmers of Gathgirth; George Roſs of Galſtoun, Hugh Archibald of D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nkeith; John Alexander of Boghall, the Earl of Caſſils, the Lord Bargany, the Maſter of Bargany, the Laird of Cairltoun, Quintin M<hi rend="sup">c</hi>ilvain of Grimat, James Whiteford of Dunduff, John Muir of Auchindrain, Hugh Blair of Blairſtoun, Allan Chalmer of San<g ref="char:EOLhyphen"/>chrie, Mr. John Ferguſon of Barclonachan, James Cunninghame of A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cket, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Eccles of Kildonan, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Boyd of Trochrig, Fergus M<hi rend="sup">c</hi>cubin of Knockdollian, and Mr. Rory Mckenzie of Dalvennan.</p>
+            <p>For the Sheriff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om of Dumbartoun.</p>
+            <p>The Earl of Argile, the Earl of Dundonnald, the Lord Boyd, ſir Umphray Colquhoun of Luſs, Mr. William Cochran of Kilmaronock, John Houſtoun younger of that Ilk, Archibald Mccaulay of Ardincaple, John Napier of Kilmahew, John Hadden of Glenegies, John Dowglaſs of Mayns, Claud Hamilton of Barns, Alexander Gartſhore of that Ilk, VVilliam Stirling of Law, Nicol Buntine of Airdoch, VVilliam Colquhoun of Craigtoun, James Hamilton of Hutcheſon, John Campbel Captain of Carrick, Andrew Colquhoun of Garſcadden, Hugh Crawford of Cloberhil, John Campbel of Ardintinie, Mr. James Smallet of Pillenflet; Wil. Noble of Fairnie; Wil. Semple of Dulmoock; John Graham <hi>of</hi> Galingade, John Whitehill <hi>of</hi> Keppoch, John Spreul <hi>of</hi> Milntoune.</p>
+            <p>FOR The Sherifdom <hi>of</hi> Bute.</p>
+            <p>The Duke <hi>of</hi> Hamiltoun His Grace, The Baillie <hi>of</hi> Arran for the time, The Earle <hi>of</hi> Argyl, The Earl <hi>of</hi> Eglingtoun, Ninian Banantyn <hi>of</hi> Kayms, and Ban<g ref="char:EOLhyphen"/>natyne Younger <hi>of</hi> Kaymes, Charles Stewart, <hi>of</hi> Killcatton, David Boyl <hi>of</hi> Kelburn Mr. John Stuart <hi>of</hi> Eſcog, Archbald Steuart, <hi>of</hi> Kinwhinlick, Ninian Stuart <hi>of</hi> La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giezian Robert Stuart <hi>of</hi> M<hi rend="sup">c</hi>knack, John Stuart <hi>of</hi> Linhael, Culbert Stuart, <hi>of</hi> Ardinho, Archi<g ref="char:EOLhyphen"/>bald Glaſs, Sherif-depute <hi>of</hi> Bute, Robert Ballinden <hi>of</hi> Lewbaſs, Sir James Montgomery, <hi>of</hi> Skelmorlie, The Magiſtrats <hi>of</hi> Rothſey for the time, and Sir James Stuart Sherif <hi>of</hi> Bute.</p>
+            <p>For the Sherifdom <hi>of</hi> Ranfrew.</p>
+            <p>The Earl <hi>of</hi> Glencarne, The Earl <hi>of</hi> Dundonnald, The Lord Montgomerie, The Lord Roſs, The Lord Blantyre, The Lairds <hi>of</hi> Houſtoun Elder and Younger, Sir John Maxwell <hi>of</hi> Pollock, Sir Archibald Stuart <hi>of</hi> Blackhall, The Lairds <hi>of</hi> Grinock Elder and Younger, The Lairds <hi>of</hi> Craigens Elder and Younger, John Porterfield <hi>of</hi> Duchill, Patrick Fleyming <hi>of</hi> Barochan, Alexander Porterfeild <hi>of</hi> Fullwood, Thomas Crawford <hi>of</hi> Crafordſburn Elder and Younger, Patrick Maxwell <hi>of</hi> New-wark, John Cald<g ref="char:EOLhyphen"/>well <hi>of</hi> that ilk, James Hamilton <hi>of</hi> Aikenhead, George Houſtoun <hi>of</hi> Johnſtoun, Robert Pollock <hi>of</hi> that ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bannantyne <hi>of</hi> Kellie, George Hutcheſon <hi>of</hi> Scotſtoun,
+<pb n="5" facs="tcp:171509:3"/>William Muir <hi>of</hi> Glanderſtoun, Lawrence <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Bl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thſwood, G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vin Cochran <hi>of</hi> Craigmuir, Ja<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>of</hi> Fingletoun, John Shaw <hi>of</hi> Bargarren Young <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Cochran <hi>of</hi> Ferguſly John M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xwell Younger <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Pollo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k <hi>of</hi> Falſide, the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ovoſt and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Baillies <hi>of</hi> Paiſl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>For the Sheriffdom <hi>of</hi> Stirling.</p>
+            <p>The Earl <hi>of</hi> Mar, the Earl <hi>of</hi> Callender, The Lord Elphinſtoun, The Lord Cardroſs, The Lord Forre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, the Laird <hi>of</hi> Houſtoun, The Laird <hi>of</hi> Wood-head, the Laird <hi>of</hi> Bardo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ie, the Laird <hi>of</hi> Kilcroych, the Laird of Ballendalloch, The Laird <hi>of</hi> Bearcrofts, The Laird <hi>of</hi> Powes, The Laird <hi>of</hi> Gargonnock, The Laird <hi>of</hi> Goger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Cunningham <hi>of</hi> Boquhan, Sir Hugh Paterſon <hi>of</hi> Binnockburn, The Laird <hi>of</hi> Polmais, The Laird <hi>of</hi> Herbertſhire, Sir Alexander Hope <hi>of</hi> Kerſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Livingſtoun <hi>of</hi> Glentirren, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Erskine <hi>of</hi> Balgowne, Mr. William Livingſtoun <hi>of</hi> Kilsyth, The Laird <hi>of</hi> Weſt-quarter, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Glaſs <hi>of</hi> Sauchie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hadden <hi>of</hi> Myrtoun.</p>
+            <p>For the Sheriffdom <hi>of</hi> Linlithgow.</p>
+            <p>The Duke <hi>of</hi> Hamilton, The Earl <hi>of</hi> Linlithgow, The Lord Livingſtoun, The Lord Torphi<g ref="char:EOLhyphen"/>chen, The Lord Cardroſs, The Laird <hi>of</hi> Dundas, The Laird <hi>of</hi> Riccartoun, The Laird <hi>of</hi> Bon<g ref="char:EOLhyphen"/>hard, The Laird <hi>of</hi> Livingſtoun, The Laird <hi>of</hi> Barbachlay, Thomas Sharp <hi>of</hi> Houſtoun, John Dundas <hi>of</hi> Dudingſtoun, Mr. William Dundas <hi>of</hi> Kincavil, Iohn Dundas <hi>of</hi> Mane<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, James Monteith <hi>of</hi> Auldca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hie, Thomas Hamil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oun <hi>of</hi> Boighead, John Hamilton <hi>of</hi> Dechmount, S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r John Dalrymple, Mr. William Hamiltoun, Sir William Hope, John Fairholm <hi>of</hi> Cra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gie<g ref="char:EOLhyphen"/>hall, George Hamiltoun <hi>of</hi> Binning, Robert Anſtruther <hi>of</hi> Wrae, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Marjoribanks <hi>of</hi> Balbardie, Thomas Baillie <hi>of</hi> Pollkennet.</p>
+            <p>FOR the Sheriffdom <hi>of</hi> Perth.</p>
+            <p>John Marqueſs <hi>of</hi> Athol, David Viſcount <hi>of</hi> Stormont, Andrew Lord Rollo, David Lord Ruth<g ref="char:EOLhyphen"/>ven, Sir Col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Campbel <hi>of</hi> Aberurchel, James Graham <hi>of</hi> Orch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, John Hadden <hi>of</hi> Gle<g ref="char:EOLhyphen"/>nagies, Sir Robert Murray <hi>of</hi> Abercairnie, Sir Patrick Murray <hi>of</hi> Auchtertyre, Adam Drum<g ref="char:EOLhyphen"/>mond <hi>of</hi> Meginch, Alexander Spittel <hi>of</hi> L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uchat, Thomas Hay <hi>of</hi> Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l-houſie, Sir John Ste<g ref="char:EOLhyphen"/>wart <hi>of</hi> G<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ntullie, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>go Campbel <hi>of</hi> Burn-bank, Sir Thomas Moncrief <hi>of</hi> that Ilk, The Laird <hi>of</hi> Weem Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unger, M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Patrick Ker <hi>of</hi> Kilmount, Colin Campbel <hi>of</hi> Mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zie, James Pearſon <hi>of</hi> Kippenroſs, Patrick Hay <hi>of</hi> K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kland, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Moncreif <hi>of</hi> Tippermal<g ref="char:EOLhyphen"/>loch, Mr. John Blair <hi>of</hi> Bal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yll, Archibaid Napper <hi>of</hi> Boquhaple, Mr. Francis Mountgom<g ref="char:EOLhyphen"/>rie <hi>of</hi> Inchleſſlie, David Drummond <hi>of</hi> Cultmalundie, James Stuart Younger <hi>of</hi> Ardvor<g ref="char:EOLhyphen"/>lick, John Campbel <hi>of</hi> Clachick, John Drummond <hi>of</hi> Blair, Alexander Duncan <hi>of</hi> Lundie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel <hi>of</hi> Bagerſho, Mr. Robert Anderſon <hi>of</hi> Coleſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Oliphant <hi>of</hi> Claſhbeny <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hay <hi>of</hi> Leyes E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, James Ogilvie <hi>of</hi> Cluny, William Stuart <hi>of</hi> Ballide, Thomas Stuart of Ste<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>toun, Patrick Stuart <hi>of</hi> Ballechan, Sir James Campbell <hi>of</hi> Lawers, Sir <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ohn Murray <hi>of</hi> Drumca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn, Colin Campbell <hi>of</hi> Munzie, Thomas Stuart <hi>of</hi> Lady<g ref="char:EOLhyphen"/>wall, D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vid H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>burton <hi>of</hi> Pitcu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ohn Gray <hi>of</hi> Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ha<g ref="char:EOLhyphen"/>lyburton <hi>of</hi> Fotherince, Iames Blair <hi>of</hi> Ardbiair, Iohn Michel <hi>of</hi> Byres, Iames Graham of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvoch, Patrick Smith of Methven, Walter Stewart of Kincarachie, Iohn Murray of Pitcullan, Mr. Iames Elphingſtoun of Comrie, Iohn Buchannan of Arn<g ref="char:EOLhyphen"/>pryer, Alexander Stuart of Annat, Mr. David Graham Tutor of Gor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hie, Iohn Murray of Stravan William Paton of Pannholes, Iohn William<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of Bar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hill, Iohn Murray of Arthurſtoun, Mr. Patrick Murray of Dollorie, Charles Stuart of Rotmel, The Laird of Strowan Robertion, Sir William Stirling of Airdoch, Iohn Stuart of Faſs, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Kinloch of Gourdie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Murray of Keilor; Do<g ref="char:EOLhyphen"/>nald Robertion of Killachangie, Iames Stuart Younger of Orart, Henry Murray of Lochlain.</p>
+            <p>For the Sheriffdom of Kincardin.</p>
+            <p>The Earl of Mariſhal, The Earl of Southe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k. The Viſcount of Arbuthnet, Sir Charles Ramſay of Balmain, Sir Alexander Falconer of Glenfarquhar, Sir David Carnagie of Pit<g ref="char:EOLhyphen"/>tarro. The Laird of Lauriſtoun, The Laird of Leyes, The Laird of Balbigno, The Laird of Halgreen. The Laird of Elſick, The Laird of Pitgarvie, Alexander Arbuthnet of Knox, George Keith of Whiteriggs Sheriff-depute. Mr. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes Falconer of Pheſdo, Iohn Dowglas of Tilli<g ref="char:EOLhyphen"/>whillie, William Barclay of Balmaqueen, William Ramſay of VVoodſtoun, and Iohn Bar<g ref="char:EOLhyphen"/>clay of Iohnſtoun.</p>
+            <pb n="6" facs="tcp:171509:4"/>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dom of Aberdeen.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Mariſhal, William Lord Keith, Charles Earl <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>muir, Iohn Earl of Kintore, William Lord In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Maſter his ſon; Alexander Lord Saltoun, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maſter of Salt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Pitſligo, and the Mr. his ſon, The Lord Fra<g ref="char:EOLhyphen"/>zer, Sir Alexander Seat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>medden, Sir Iohn Forbes of Craigievarr, Sir Iames Baird of Auchmedden, Sir George Gordon of Edinglaſſie, Iohn Gordon Younger of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>echil, Alexander Gordon Tutor of Pitlurg, Sir Iames Gordoun of Leſſmore, The Laird of Udny Younger, Robert Udny of Auchterallan, Sir George Skeen of Fintry, Patrick Dun of Taartie, Mr. Alexander Forbes of Foverame, Samuel Forbes Younger of Foverame, Iohn Roſs of Roſchil, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Frazer of Strichen, Sir Henry Guthrie of King-edward, Iames Keith of Tilligonie, Sir William Keith of Ludquharne, Iohn Forbes of Leſlie, Sir Iohn Forbes of Munimusk Elder, William Forbes of Munimusk Younger, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Leith of whyte-haugh Alexander Cumming of Culter, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Elphingſtoun of Glaicke Younger, The Laird of Dyce Younger, Mr. Iames Gray of Balgouny, Alexander Skeen of that Ilk, Sir Tho<g ref="char:EOLhyphen"/>mas Burnet of Leyes, Robert Gordoun of Cluny, Iames Innes of Drumgask, Adam Gordon of Achinachie, Francis Roſs of Achloſſin; Sir Robert Innes of Kinnermonie, Iohn Gordon of Brachlie <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Forbes Younger of Echt, Mr. Thomas Gordon of Crimonmogate, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Gor<g ref="char:EOLhyphen"/>don of Badinſcoth, William Gray of Creichie, William Thoirs Younger of Muiresk, Iohn Gordon of Nethermuir; Thomas Forbes of VVatertoun; Charles Gordon of Bre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ack, Adam Gordon of Glenbucket, Iohn Gordon of Hallhead, Mr. Robert Irvine, of Cults, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Forbes of Tulloch, Iames Gordon of Bodome <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Caddel of Aſwanly, Sir Charles Maitland of Pitrichie, Thomas Forbes of Echt, George Morl<g ref="char:EOLhyphen"/>ſon of Pitfour, Arthur Forbes of Bruix, George Garrioch younger of Kinſtar<g ref="char:EOLhyphen"/>ret, Iames More of Stenywood, Mr. Iames Elphingſtoun of Logiedurno, Patrick Leſly of Kincraigie, Alexander Roſs of Tilliſnaught, William Forbes of Camphell, Mr. Iames Keith of Auquhorsk, Andrew VVatſon Baillie in Peterhead, Alexander Donaldſon of Litledrumwhindle, Iames Gordon of Daach, Robert Burnet of Elrick, Iames Forbes of Savack, Iohn Logie of Bodom <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Leith of Newlands <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Leſly of Little-wartle, The Laird of Graigievarr Younger, Robert Sympſon of Thorn<g ref="char:EOLhyphen"/>ſtoun, The Laird of Balflig Younger, George Paton of Grandum, Thomas M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nzies of Kinmundie, Henry Forbes of Boyndlie, Iohn Udny of Cultercullen, Mr. Robert Innes of Blairtoun, and Sir Alexander Forbes of Tolquhon.</p>
+            <p>FOR the Shire of Innerneſs.</p>
+            <p>The Lord Lovat, The Laird of M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intoſh, Sir Hugh Campbel of Calder Lodovick Grant of that Ilk, George Cuthbert of Caſtelhill, Duncan Forbes of Col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oden, William M<hi rend="sup">c</hi>intoſh of Borland, Mr. William Robertſon of Inſhes, Donald M<hi rend="sup">c</hi>intoſh of Keillochie, Thomas Cheviſe of Muirtoun, The Laird of Strichen, The Laird of Rillick, Mr. Hugh Fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zer Laird of Eſcogdel, Duncan M<hi rend="sup">c</hi>pherſon of Cluny, The Laird of Calder Younger, The of Mcdonald, The Laird of M<hi rend="sup">c</hi>cleod, The Laird of Glengarie, William Frazer of Foyl, Hugh Frazer of Belleskin, Hugh Frazer of Ballenain.</p>
+            <p>For the Sheriffdom of Nairn,</p>
+            <p>Sir Hugh Campbel of Calder, Hugh Roſs of Killrawick, Iohn Hay of Lochloy, Alexander Campbel Younger of Calder, David Broddie of Lethen, Alexander Roſs of Clava, David Sutherland of Kinſterie, Archibald Campbel of Kaitcaſtle, Alexander Dumbar or Boath, and William Campbel of Dellnice.</p>
+            <p>FOR the Sheriffdom of Cromartie,</p>
+            <p>'George Viſcount of Tarbet, Mr. Kenneth Mckenzie of Cromartie, Sir George Mckenzie of Roſehaugh, Alexander Urquhart of Newhal, and Iohn Urquhart Fiar thereof his ſon, George Dalias of St. Martins, and Mr. Iames Dallas Younger thereof his ſon, Wiilliam Urquhart of Braelangual, Alexander Clunes of Dunskeith, Andrew Frazer of Bannens, and Iames Frazer of Brae.</p>
+            <p>FOR the Shire of Argyl.</p>
+            <p>The Earl of Argyl, Sir Colin Campbel of Ardkinlaſs, Archibald Lamont of that Ilk, Archibald Campbel of Strathure, Iohn Campbel Captain of Carrick, Iohn Campbel Captain of Duncon, Colin Campbel of Ellengreg, Archibald Lamont of Silvercraigs, Sir Duncan Campbel of Auchin<g ref="char:EOLhyphen"/>breck, The Laird of Barbreck, The Captain of Craigneiſh, Alexander Campbel of Kilmartine, Archibald M<hi rend="sup">c</hi>clachlan of Craignitarriff, Colin Campbel of Teſtennen <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Campbel of Melfort, Iohn Campbel Tutor of Innerliver, Angus Campbel of Kiberry, Archibald
+<pb n="7" facs="tcp:171509:4"/>Campbel of Dounay, Lord Neil Campbel, Sir Hugh Ca<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Baillie of Muckarn, or the Baillie thereof for the tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Campbel of Inverraw, The Tutor of Dunſtaffniſh, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Campbel of Barcalten, Dowgal Campbel of Clanmackri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Alexander Campbel Younger of Caddel, Dowgal Camp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Baillie of Kintyre for the time, Walter Campbel of Skipinich; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Campbel of Glencar<g ref="char:EOLhyphen"/>radel; Duncan Campbel of Blarntibert, Iohn Campbel of Killadallage; The Laird of Lergie; The Laird of Loup; Archibald Campbel of Ouchtomor; and the Baillie of Ilay for the time; Donald Campbel of Ballinaly; Lauchlan Campbel of Dail; The Baillie of Jura, the Baillie of Collenſy; and the Magiſtrats of Innerary.</p>
+            <p>FOR the Shirreffdom of Fyfe.</p>
+            <p>The Earl of Mortoun; The Earl of Levin; The Lord Melvil; The Lord Colvil; The Maſter of Burghlie; Sir Alexander Bruce of Broom-hal; Sir Charles Hacket of Pitfirren; Sir Henry Wardlaw of Pittrevie; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Monteith of Randefoord; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Henderſon of Fordel, Mr. Alexander Spittel of Lew<g ref="char:EOLhyphen"/>chet; Iames Robertſon of Newbigging; Mr. Iohn Dempſter of Pitliver, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Spencerfield; Sir Philip Auſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uther of that Ilk, Iames watſon of Athernie <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Durhame of Largo, Sir Alexander Erskine of Cambo, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lindſay of Wormiſtoun, Mr. Iames Lumſdain of Sravithie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Dudingſtoun of Sam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>foord, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Fotheringham of Lawhill, David Scot of Scotſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bit, Mr. Robert Smith of Gibliſtoun, VVilliam A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtruther of that Ilk, Robert Hamilton of Kilbrankmont, Iohn Skeen of Halyeards Elder, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of Bogie, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Weyms of Kuttelhill, Dowglaſs of Strendry, VVhite of Bannochie, Robert Dowglaſs of Kirknes, David Beaton of Balfour, Sir David A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>not of that Ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Moncrief of Reddie, Mr. Archibald Hope of Rankeilo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Sir Iohn Ayton of that Ilk, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hay of Naughtoun, Nai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of Samefoord, George Moncrieff of Sachope, Mr. Robert Lermonth of Balcomie, Iohn Aiton <hi>of</hi> Kinnaldy, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Melvil <hi>of</hi> Caſſingray, James Carmichael <hi>of</hi> Balinblea, Robert Gedd <hi>of</hi> Balridge, and James Lindſay <hi>of</hi> Caevle.</p>
+            <p>For the Shire <hi>of</hi> Kinroſs.</p>
+            <p>John Lord Burghlie, The Lord Colvil, the Maſter <hi>of</hi> Burghlie, Sir David Arnot <hi>of</hi> that Ilk, Robert Dowglaſs <hi>of</hi> Kirkneſs, Sir John Malcolm <hi>of</hi> Innerteil, John Hallyday <hi>of</hi> Tilley<g ref="char:EOLhyphen"/>bole, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lindſay <hi>of</hi> Dowhill, James Rankine <hi>of</hi> Colden, George Berril Portioner <hi>of</hi> K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>neſwood, Patrick Robertſon <hi>of</hi> Smiddihill, the Baillie <hi>of</hi> Kinroſs for the time, and Sir William Bruce <hi>of</hi> Kinreſs.</p>
+            <p>For the Shire of Forfar.</p>
+            <p>The Earl <hi>of</hi> Southesk, the Earl <hi>of</hi> Airlie, the Earl of Panmure, the Viſcount <hi>of</hi> Arbuth<g ref="char:EOLhyphen"/>net, the Lord Glames, the Lord Ogilvie, Sir George Mckenzie <hi>of</hi> Roſehaugh, Sir Patrick Lyon <hi>of</hi> Carſs, Mr. Henry Mauld <hi>of</hi> Kellie, Mr. James Carnegie <hi>of</hi> Phinheaven, David Lindſay <hi>of</hi> Edziel, James Carnegie <hi>of</hi> B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lnamoon, David Halyburton <hi>of</hi> Pitcur, James Scot <hi>of</hi> Logie, David Fotheringhame <hi>of</hi> Pourie, Sir John Wood <hi>of</hi> Boningtoun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Duncan <hi>of</hi> Lundy, William Durhame ſometime <hi>of</hi> Ardoun, now <hi>of</hi> Grange, James Crichton <hi>of</hi> Ruthven, Gilbert Auchinleck <hi>of</hi> that Ilk, John Guthry of that Ilk, Alex<g ref="char:EOLhyphen"/>ander Carnegie Shirreff-deput <hi>of</hi> Forfar. John Ouchterlony <hi>of</hi> Guynd, Mr. John Wiſhart <hi>of</hi> Logie, Robert Young <hi>of</hi> Auldbar, John Ogilvy <hi>of</hi> Pitmeves, David Grahame <hi>of</hi> Fintray, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Gray <hi>of</hi> Crichy, and David Erskine <hi>of</hi> Dun.</p>
+            <p>For the Sheriffdom of Bamff.</p>
+            <p>The Earl <hi>of</hi> Airly, the Earl <hi>of</hi> Finlator, Sir. Patrick Ogilvy of Boyn, Sir James Baird <hi>of</hi> Auchmedden, Sir George Gordon <hi>of</hi> Edinglaſſie, the Laird <hi>of</hi> Troop, George Keith <hi>of</hi> Northfield, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Grant <hi>of</hi> Denluguſs, Walter Stuart <hi>of</hi> Boig, James Ogilvy <hi>of</hi> Puldavie, Thomas Ogilvy in Boigtoun, Alexander Hay <hi>of</hi> Arnbath, Mr. Iohn and Alexander Abercombies, elder and younger <hi>of</hi> Glaſſach; Iohn Ogilvie <hi>of</hi> Kempcairn, Ogilvie younger <hi>of</hi> Kempcairn, Thomas Gordon <hi>of</hi> Cranach <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Innes <hi>of</hi> Edingeith; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Stuart <hi>of</hi> Kilmach, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Anderſon younger <hi>of</hi> Weſtertoun, the Laird <hi>of</hi> Park Gordon, Provoſt Stuart, Baillie Iohn Gordon, the Laird of Grant, Patrick Grant of Elchies, Alexander Duff <hi>of</hi> Bracco, Alexan<g ref="char:EOLhyphen"/>der Duff of Kethmore, Patrick Stuart <hi>of</hi> Tanachy, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Hay <hi>of</hi> Raneis <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Ogil<g ref="char:EOLhyphen"/>vie <hi>of</hi> Cantly, Alexander Gordon <hi>of</hi> Auchynachie, and John Gordon <hi>of</hi> Dallowchy.</p>
+            <p>For the Stewartry <hi>of</hi> Kircudbright.</p>
+            <p>The Viſcount <hi>of</hi> Kenmure, Richard Murray <hi>of</hi> Burghtoun, Heugh M<hi rend="sup">c</hi>guffock <hi>of</hi> Ruſ<g ref="char:EOLhyphen"/>co, Alexander Gordon <hi>of</hi> Earlſtoun, William Gordon <hi>of</hi> Shiremure, Adam Newal <hi>of</hi> Bars<g ref="char:EOLhyphen"/>keoch
+<pb n="8" facs="tcp:171509:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, Pa<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>k Murdoch <hi>of</hi> Cumlodan, Robert Brown <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>vell, Edward Maxwel <hi>of</hi> Hills, Robert Greirſon <hi>of</hi> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> William M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gie <hi>of</hi> Balmagie, Thomas Greirſon <hi>of</hi> Bar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> John Ewart <hi>of</hi> Mulloch, John Carſon <hi>of</hi> Balmangan, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The Magiſtrats of Kircudbright, and Rodger Gordon <hi>of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>For the Shireffdom <hi>of</hi> Sutherland.</p>
+            <p>The Earl <hi>of</hi> Suther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Lord Strathnaver, the Lord Duffus, William Sutherland <hi>of</hi> Invercaſlie, Sir Rober<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gordon <hi>of</hi> Embo, Adam Gordon <hi>of</hi> Dolfolly, Mr. John Gordon of Carrel, Alexander Sucherland of Prouſie, Robert Gray <hi>of</hi> Subo, Patrick Dumbar <hi>of</hi> Si<g ref="char:EOLhyphen"/>dere, Robert Murray <hi>of</hi> Pulroſſie, Angus M<hi rend="sup">c</hi>kay <hi>of</hi> Melnes, William M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kay <hi>of</hi> Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ley, An<g ref="char:EOLhyphen"/>gus Mckay <hi>of</hi> Bighouſe, Heugh Monro <hi>of</hi> Eribol, John Monro <hi>of</hi> Inverran.</p>
+            <p>For the Shireffdom <hi>of</hi> Caithneſs,</p>
+            <p>Sir James Sinclar <hi>of</hi> May, Sir George Sinclar <hi>of</hi> Clyth, John Sinclar <hi>of</hi> Murtle, Wli<g ref="char:EOLhyphen"/>am Sinclar of Dunbeath, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Sinclar <hi>of</hi> Brimes, David Murray <hi>of</hi> Clerden, Mr. James Innes <hi>of</hi> Sand-ſide, Mr. Alexander Calder <hi>of</hi> Augingail, Robert Campbel <hi>of</hi> Brenegleis, John Sinclar <hi>of</hi> Fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhwick, Laurence Caddel <hi>of</hi> Lyneger, George Sutherland <hi>of</hi> Forſe, John Sinclar <hi>of</hi> Ulbſter, Robert Sinclar <hi>of</hi> Duren, Robert Campbel <hi>of</hi> Dalgavoch, the Sheriff-Deput <hi>of</hi> Caithneſs for the time, Alexander Smart <hi>of</hi> Weſter, the Baillies <hi>of</hi> Thurſo for the time, William Dumbar <hi>of</hi> Hemprigs, John Sinclar <hi>of</hi> Stirkcog, James Sutherland <hi>of</hi> Auſedale, Mr Robert Dumbar <hi>of</hi> O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kinga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, John Sinclar younger <hi>of</hi> Dumbeath, Patrick Sinclar <hi>of</hi> Southdun, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Sinclar <hi>of</hi> Brabſter, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Sinclar of Hempſter, James Sinclar of Lybſter, and James Sinclar <hi>of</hi> Hoy.</p>
+            <p>For the Sheriffdom of Elgi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The Lord Duffus, the Laird of Grant, the Sheriff of Murray, The Laird <hi>of</hi> Innes, Sir Robert Gordon, the Laird of Brody, the Laird of Grange, the Laird of Gramſhill younger, the Laird of Altar, the Laird <hi>of</hi> Dumphail elder or younger, Sir James Calder <hi>of</hi> Muirtoun, Charles Mckenzie <hi>of</hi> Ironſide, the Laird of Cubine, Thomas Urquhart <hi>of</hi> Bunjardge, William Duff of Diple, William Broddie of Cantfield, John Dumbar of Bogs, and Thomas Tulloch of Taunachie.</p>
+            <p>For the Sheriffdom of Orkney and Zetland.</p>
+            <p>Sir Archibald Stua<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Borrow, Robert Stuart of New-work, William Bel<g ref="char:EOLhyphen"/>lenden of Sten-houſe, John Stuart of Burgh, William Douglaſs of Egil<g ref="char:EOLhyphen"/>ſhaw, Iames Baickie of Tankerneſs, James Grahame of Grahames-hall, Henry Grahame of Brackneſs, David Craig of Over-ſandy, William Craigie of Gairſie, Laurence Sinclar of Quendal, Laurence Stuart of Bigtoun, Robert Bruce of Sounburgh, Andrew Bruce Tutor of Muneſs, Thomas Leſly of Vſtenes, Iohn G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffart of Buſta, and Iames Oliphant of Ure.</p>
+            <p>For the Sheriffdom of Clackmannan.</p>
+            <p>The Earl of Mar, George Viſcount of Tarbet, the Laird of Alva, Iohn Keirie of Gogar, Robert Myln of Tilliallan, George Abercrombie of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Bruce of Kennet, the Laird of Tillicoutrie, the Laird of Tilliebody, Mr. Francis Maſtertown of Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k<g ref="char:EOLhyphen"/>miln, George Stirling, the Baillie of Alloway for the time.</p>
+            <p>For the Sheriffdom of Roſs.</p>
+            <p>The Viſcount of Tarbet, The Laird of Balnagown, The Laird of Fowlis younger, the Laird of Mcintoſh, Sir George Monro of Culrain, Sir Alexander M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kenzie of Coul, Sir Rory M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zie of Findon Sheriff Deput, Sir Donald Baine of Tulloch, Alexander Mckenzie of Balnaduthie, Alexander M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kenzie of Gareloch, Alexander M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kenzie of Apel<g ref="char:EOLhyphen"/>croſs, Ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kenzie of Reidcaſtle; <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Monro of Newmore, David Fearn of Tar<g ref="char:EOLhyphen"/>liggie, Mr. John Bayne of Delnice, Hector Monro of Drummond, John Monro of Fy<g ref="char:EOLhyphen"/>ers, George Roſs of Morinchie, Kenneth M<hi rend="sup">c</hi>kenzie of Scatwel, Iohn Forreſter of Culnauld, Walter Roſs of Cowillich, Malcolm Roſs of Kindice, Mr. David Fearn of Pitcalzeon, Do<g ref="char:EOLhyphen"/>nald Roſs of Knockgar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, William Roſs of Aldie, Alexander Roſs younge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Pitkenie; Mr. Iames M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>culloh of Piltoun, Alexander Roſs of Little-tarrel, Colin Robertſon of Kindice, Alexander Roſs of Eaſterfearn, Rory Dingwal of Cambuſcurry upper, Rory M<hi rend="sup">c</hi>le<g ref="char:EOLhyphen"/>od of Cambuſcurry nether the Provoſt or eldeſt Baillie of Tain being for the time, Alexan<g ref="char:EOLhyphen"/>der
+<pb n="9" facs="tcp:171509:5"/>Monro of Ardullie, Sir George M<hi rend="sup">c</hi>kenzie of Roſehaugh, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whiladrum Kenneth M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kenzie of Dagmaleuke, Murdoch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> M<hi rend="sup">c</hi>kenzie of Terrardan, Murdo M<hi rend="sup">c</hi>kenzie of Ardroſs; and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>ANd Ordains the firſt Meeting of the ſaids Commiſſi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be at the Head Burghs thereof, upon the fourteenth day of May next. And appoints the Major Part of the ſaids Commiſſioners named for the Reſpective Shires, to be a Quorum at their firſt Meeting: Who are hereby Impowered to name their Conveener, and to appoint the next Dyet of Meeting, and the Major Part of ſuch as ſhal meet at the ſe<g ref="char:EOLhyphen"/>cond Dyet; or upon Advertiſement from the Conveener at any other Dyet to be a Quorum, with Power to the ſaids Conveeners for the ſaids Shires reſpective, to call the Com<g ref="char:EOLhyphen"/>miſſioners foreſaid, at ſuch Dyets thereafter, as they ſhal think neceſſary, for the effectual Execution of this Act. And for the Burghs, the Eſtates do Nominat and Appoint the Magiſtrats of the ſame for the time being; with Power to them to chooſe Stent-Maſters within their reſpective bounds: which Commiſſioners of Shires and Burghs are hereby or<g ref="char:EOLhyphen"/>dained to accept and diſcharge their Truſt, as they ſhal be anſwerable: And they do here<g ref="char:EOLhyphen"/>by Impower the ſaids Commiſſioners, to preſcribe and ſet down ſuch Rules and Orders, within the Reſpective Shires and Burghs, as may be moſt effectual for the ſpeedy and eaſy raiſing, levyeing and bringing in of the ſaid Impoſition, and ordaining and doing eve<g ref="char:EOLhyphen"/>ry other thing that may concern the ſame, and to name their own Clerks and Colle<g ref="char:EOLhyphen"/>ctors, for ingathering of the ſaid Impoſition, for whom they are to be anſwerable, and to allow them ſuch Fees as they ſhall think fit: Which Fees are hereby declared to be over and above the foreſaid Impoſition, and no part thereof.</p>
+            <p>ANd the Eſtates do Ordain all Execution Real and Perſonal, to paſs at the Inſtance of the Collector-General, and the Collectors of the Reſpective Shires and Burghs againſt all perſons deficient in Payment of their Proportions, as was in uſe formerly againſt theſe deficient in Payment of Ceſs; And alſo impowers the Commiſſioners, by their Officers to Arreſt Poynd and Diſtrenzie the Goods, and impriſon the Perſons of the deficients, ay and while they make Payment of their juſt Proportions and neceſſary Expences: And for the more ready and Effectual Payment, do alſo Impower the Commiſſioners and Col<g ref="char:EOLhyphen"/>lector-General; to quarter upon Deficients, with this expreſs Proviſo, that every Horſe<g ref="char:EOLhyphen"/>man that ſhal be upon the place, ſhal have only free ſingle quarter allotted to him upon the perſons deficient, or by quartering in Burghs, and Villages, as the Commiſſioners ſhal Appoint to be ſatisfyed, and payed by the Deficients, and not by thoſe on whom they are quartered, except where they themſelves are deficient: And in that caſe to have fif<g ref="char:EOLhyphen"/>teen ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling ſcots a day from the time of preſenting the Order to the Collector, upon whom they are to quarter until he give them a Liſt of the Deficients, and the Sums wherein they are deficie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and thereafter to quarter upon the Deficients: And each Dra<g ref="char:EOLhyphen"/>gooner to have ten ſhilling ſcots a day, and each Foot-man to have four ſhilling ſcots, or his Dyet, as the Commiſſioners ſhal order, and the Commanders of the Party of Horſe Dragooners or Foot, to have only double Quarters or Pay of an Horſeman, Dragooner or Footman, as he ſerves. And Declares that in order to the Quarters and Matters Relating to the Inbringing of this Impoſition, any three of the Commiſſioners ſhal be a Quorum, and who are impowered to proportion upon, and raiſe from the Deficients the Expenſe and Charge of their Deficiency, and to ſee payment made to theſe, on whom the Souldiers are quartered, who were not deficient: And further the Eſtates Declare that all Officers, and Souldiers, Horſe Dragooners and Foot<g ref="char:punc">▪</g> ſhall make due and punctual payment of their Quarters, Local and Tranſient, as the ſame ſhall be appointed by the foreſaids Commiſſio<g ref="char:EOLhyphen"/>ners, according to the Rates of the Countrey. And in caſe the Souldiers do not pay their Quarters, that the Quarters be ſtated betwixt the Quarter-Maſters or other Officers, and any two of the Commiſſioners, and the Accompts being ſtated and fitted, that they be payed or allowed by the reſpective Collectors, in the firſt end of what is due by the Shire or Burgh, where the ſaids Quarters are owing, Providing the ſaids Quarters do not exceed two parts of their pay, and which Stated Accompts are to be allowed to the reſpective Collectors by the Collector General, and to be by him retained off the firſt end of the Troops or Companys pay: And in caſe the Officers remove before their Accompts can be ſtated, In that caſe the Collectors of the Shires and Burghs are to retain, what after Tryal
+<pb n="10" facs="tcp:171509:6" rendition="simple:additions"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> find reſting, till the Accompts be ſtated in manner fore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that no perſons lyable in any part of this Impoſition, ſhal <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> charges or Receipts of the ſame, after five years from the date <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>igence hath been done by Denunciation before elapſing of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this Act to be Printed and Publiſhed at the Mercat-croſs of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Croſſes of the Head Burghs of the Several Shires. And for that Effect, appoints Printed Copies thereof to be ſent to the Sheriff-Clerks of the ſeve<g ref="char:EOLhyphen"/>ral Shires, that they may cauſe Publiſh the ſame accordingly. Extracted forth of the Re<g ref="char:EOLhyphen"/>cords of the Meeting of the Eſtates, by me</p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibſon,</hi> Cls.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <dateline>At <hi>Edinburgh,</hi> 
+                     <date>the firſt day of <hi>May,</hi> 1689.</date>
+                  </dateline>
+               </opener>
+               <p>The Committee of Eſtates do Require the ſeveral Sheriff Clerks upon Receipt of the Act abovewritten, Immediatly to diſpatch Intimations under their hands to the Readers, in the ſeveral Paroch Churches and Meeting-Houſes in the Shire, to be read on the Lords Day, immediatly after Divine Service, giving Advertiſement of the firſt Dyet of Meeting of the Commiſſioners, for ordering the ſaid Impoſition upon the fourteenth day of May in<g ref="char:EOLhyphen"/>ſtant at the Head Burgh of the Shire. Extracted forth of the Records of the Committee of Eſtates, by me</p>
+               <closer>
+                  <signed>
+                     <hi>Al. Gibſon,</hi> Cls.</signed>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
